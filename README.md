@@ -7,7 +7,7 @@ A responsive Spotify-inspired music streaming interface built using **HTML** and
 
 ---
 
-## 📸 Preview
+ ## 📸 Preview
 
 
 ```md
