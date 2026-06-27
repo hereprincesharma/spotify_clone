@@ -10,7 +10,6 @@ A responsive Spotify-inspired music streaming interface built using **HTML** and
  ## 📸 Preview
 
 ## Desktop View
-![Desktop Preview]
 ![spotify_clone](Screenshot.png)
 
 ## ✨ Features
